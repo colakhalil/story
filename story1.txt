@@ -1,1 +1,1 @@
-This is first version of story1.txt
+This is second version of story1.txt
